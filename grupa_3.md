@@ -4,13 +4,13 @@
 
 [4.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* [WP]
 
+[11.03.2019] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [JT]
+
 [] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [DH - Gradle]
 
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
 [] *Narzędzia do zarządzania projektami i bug trackingu*
-
-[11.03.2019] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [JT]
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker* [DK2]
 
