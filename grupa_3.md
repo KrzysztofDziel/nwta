@@ -2,7 +2,7 @@
 
 [25.02.2019] *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [MP]
 
-[4.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* [JT]
+[4.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* [WP]
 
 [] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle*
 
@@ -10,7 +10,7 @@
 
 [] *Narzędzia do zarządzania projektami i bug trackingu*
 
-[] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
+[11.03.2019] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [JT]
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker* [DK2]
 
