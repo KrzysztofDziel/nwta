@@ -20,7 +20,7 @@
 
 [] *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
-[] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown
+[] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown [MS] 
 
 [] *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 
