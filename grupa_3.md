@@ -14,7 +14,7 @@
 
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
-[] *Narzędzia do zarządzania projektami i bug trackingu*
+[] *Narzędzia do zarządzania projektami i bug trackingu* [AK]
 
 [] *Automatyczne testowanie funkcjonalne, wydajnościowe: np. Selenium, JMeter*
 
