@@ -4,7 +4,7 @@
 
 [4.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* [PL]
 
-[11.03.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle*
+[11.03.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [IK - Maven]
 
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
