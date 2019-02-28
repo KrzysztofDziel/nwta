@@ -16,7 +16,7 @@
 
 [] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter* [ML]
 
-[] *Systemy CI*
+[] *Systemy CI*[KD]
 
 [] *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
