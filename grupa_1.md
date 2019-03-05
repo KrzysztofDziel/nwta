@@ -6,13 +6,15 @@
 
 [11.03.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [IK - Maven]
 
+[18.03.2019] *Narzędzie wspomagające tworzenie projektu - JHipster* [BK]
+
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
 [] *Narzędzia do zarządzania projektami i bug trackingu* [PC]
 
 [] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [ŁP]
 
-[] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker [BK]*
+[] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker []*
 
 [] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter* [ML]
 
