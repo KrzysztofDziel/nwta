@@ -10,6 +10,8 @@
 
 [1.04.2019] *Automatyczne testowanie funkcjonalne, wydajnościowe: np. Selenium [JT], JMeter*
 
+[8.04.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven [DK], Gradle*
+
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker* [DK2]
 
 [] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown [MS] 
