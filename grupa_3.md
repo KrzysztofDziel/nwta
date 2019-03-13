@@ -6,7 +6,9 @@
 
 [18.03.2019] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [JT]
 
-[] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [DH - Gradle]
+[25.03.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [DH - Gradle]
+
+[1.04.2019] *Automatyczne testowanie funkcjonalne, wydajnościowe: np. Selenium [JT], JMeter*
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker* [DK2]
 
@@ -15,8 +17,6 @@
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
 [] *Narzędzia do zarządzania projektami i bug trackingu* [AK]
-
-[] *Automatyczne testowanie funkcjonalne, wydajnościowe: np. Selenium, JMeter*
 
 [] *Systemy CI*
 
