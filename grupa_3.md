@@ -2,9 +2,9 @@
 
 [25.02.2019] *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [MP]
 
-[4.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* [WP]
+[18.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* [WP]
 
-[11.03.2019] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [JT]
+[18.03.2019] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [JT]
 
 [] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [DH - Gradle]
 
