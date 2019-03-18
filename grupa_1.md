@@ -4,19 +4,19 @@
 
 [4.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* [PL]
 
-[11.03.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [IK - Maven]
+[18.03.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [IK - Maven]
 
-[18.03.2019] *Narzędzie wspomagające tworzenie projektu - JHipster* [BK]
+[25.03.2019] *Narzędzie wspomagające tworzenie projektu - JHipster* [BK]
+
+[1.04.2019] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [ŁP]
+
+[8.04.2019] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter* [ML]
 
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
 [] *Narzędzia do zarządzania projektami i bug trackingu* [PC]
 
-[] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [ŁP]
-
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker []*
-
-[] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter* [ML]
 
 [] *Systemy CI*[KD]
 
