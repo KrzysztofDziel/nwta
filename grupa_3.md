@@ -12,6 +12,8 @@
 
 [8.04.2019] *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven [DK], Gradle*
 
+[15.04.2019] *Narzędzia do zarządzania bazą danych (Liquibase)* [TS]
+
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker* [DK2]
 
 [] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown [MS] 
