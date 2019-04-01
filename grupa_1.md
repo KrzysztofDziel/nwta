@@ -12,17 +12,17 @@
 
 [8.04.2019] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter* [ML]
 
-[] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
+[15.04.2019] *Narzędzia do zarządzania projektami i bug trackingu* [PC]
 
-[] *Narzędzia do zarządzania projektami i bug trackingu* [PC]
+[29.04.2019] *Systemy CI*[KD]
+
+[] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD) [MT]
+
+[] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker []*
 
-[] *Systemy CI*[KD]
-
 [] *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
-
-[] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD) [MT]
 
 [] *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 
