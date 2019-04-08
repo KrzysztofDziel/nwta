@@ -14,6 +14,8 @@
 
 [15.04.2019] *Narzędzia do zarządzania bazą danych (Liquibase)* [TS]
 
+[29.04.2019] *Narzędzia CI w GitLabie/Bitbuckecie* [KP]
+
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker* [DK2]
 
 [] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown [MS] 
@@ -21,8 +23,6 @@
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
 [] *Narzędzia do zarządzania projektami i bug trackingu* [AK]
-
-[] *Systemy CI*
 
 [] *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
