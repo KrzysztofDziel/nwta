@@ -16,11 +16,11 @@
 
 [29.04.2019] *Narzędzia CI w GitLabie/Bitbuckecie* [KP]
 
-[6.05.2019] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown [MS] 
+[6.05.2019] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown* [MS] 
+
+[13.05.2019] *Narzędzia do zarządzania projektami i bug trackingu* [AK]
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker* [DK2]
-
-[] *Narzędzia do zarządzania projektami i bug trackingu* [AK]
 
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
