@@ -22,7 +22,7 @@
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker []*
 
-[] *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
+[] *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*  [MP]
 
 [] *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 
