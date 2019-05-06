@@ -18,7 +18,7 @@
 
 [] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD) [MT]
 
-[] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
+[] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [JK]
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker []*
 
